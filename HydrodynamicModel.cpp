@@ -39,7 +39,7 @@ extern double CalculationError(/*int argc, _TCHAR* argv[]*/)
 	{
 		if (!AfxWinInit(hModule, NULL, ::GetCommandLine(), 0))
 		{
-			_tprintf(_T("´íÎó:  MFC ³õÊ¼»¯Ê§°Ü\n"));
+			_tprintf(_T("Â´Ã­ÃŽÃ³:  MFC Â³ÃµÃŠÂ¼Â»Â¯ÃŠÂ§Â°Ãœ\n"));
 			nRetCode = 1;
 		}
 		else
