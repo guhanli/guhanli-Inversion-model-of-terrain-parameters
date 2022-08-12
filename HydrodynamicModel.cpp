@@ -29,7 +29,7 @@ CString GetHomeDirectory()
 	return rVal;
 };
 
-extern double CalculationError(/*int argc, _TCHAR* argv[]*/)
+extern double CalculationError()
 {
 	int nRetCode = 0;
 
